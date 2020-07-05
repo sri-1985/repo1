@@ -1,3 +1,4 @@
 this is a new file
 this is second text line
+the third line is new for text file.
 
