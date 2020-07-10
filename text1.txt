@@ -1,3 +1,5 @@
 this is a new text file
 this is second line in text file
+this line is added for merge b/w two branches
+
 
